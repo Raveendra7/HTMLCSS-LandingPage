@@ -131,7 +131,7 @@ section {
   background-image: url('../img/hero.jpg');
   height: 400px;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   text-transform: uppercase;
 }
 .hero h1 {
@@ -154,7 +154,6 @@ section {
 }
 .banner {
   margin: 55px 15px;
-  width: 100px;
   border-top: 1px solid #a0a0a0;
   border-bottom: 1px solid #a0a0a0;
   padding: 25px 0;
